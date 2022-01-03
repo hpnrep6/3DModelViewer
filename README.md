@@ -1,6 +1,7 @@
 # OBJ Model Viewer
 A simple obj model viewer to look at 3d .obj models.
 
+![screenshot](https://github.com/hpnrep6/3DModelViewer/blob/master/screenshot.png)
 ## Building
 
 ```
