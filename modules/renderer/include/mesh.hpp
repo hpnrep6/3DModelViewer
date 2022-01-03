@@ -7,7 +7,6 @@
 #include <assimp/Importer.hpp>
 #include <assimp/scene.h>
 #include <assimp/postprocess.h>
-#include "tiny_gltf.h"
 #include "arrayUtils.hpp"
 #include "material.hpp"
 
