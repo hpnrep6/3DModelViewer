@@ -29,10 +29,6 @@ target_link_libraries(${PROJECT_NAME} glm)
 add_subdirectory(thirdparty/stb)
 target_link_libraries(${PROJECT_NAME} stb)
 
-# gltf
-add_subdirectory(thirdparty/tinygltf)
-target_link_libraries(${PROJECT_NAME} tinygltf)
-
 # assimp
 add_subdirectory(thirdparty/assimp)
 target_link_libraries(${PROJECT_NAME} assimp)
